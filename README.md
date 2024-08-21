@@ -1,5 +1,6 @@
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+
 -FUNDAMENTAL CONCEPTS OF VERSION CONTROL.
 Repositories: A repository (or "repo") is a storage location for the project files. It contains all the files and directories for a project, along with the history of changes made to these files.
 
